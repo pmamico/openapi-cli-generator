@@ -8,8 +8,8 @@ github.com/alecthomas/colour v0.1.0 h1:nOE9rJm6dsZ66RGWYSFrXw461ZIt9A6+nHgL7FRrD
 github.com/alecthomas/colour v0.1.0/go.mod h1:QO9JBoKquHd+jz9nshCh40fOfO+JzsoXy8qTHF68zU0=
 github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 h1:GDQdwm/gAcJcLAKQQZGOJ4knlw+7rfEQQcmwTbt4p5E=
 github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1/go.mod h1:xTS7Pm1pD1mvyM075QCDSRqH6qRLXylzS24ZTpRiSzQ=
-github.com/danielgtaylor/go-jmespath-plus v0.0.0-20200228063638-e0b6f132acba h1:COT94fQgUPh7CG42x3RTfab3V9jK9x4i2GLpubq7eZM=
-github.com/danielgtaylor/go-jmespath-plus v0.0.0-20200228063638-e0b6f132acba/go.mod h1:A57wu2YKZM9dwidFjak6swlRJPKbg+TfHsFm0py9/i8=
+github.com/pmamico/go-jmespath-plus v0.0.0-20200228063638-e0b6f132acba h1:COT94fQgUPh7CG42x3RTfab3V9jK9x4i2GLpubq7eZM=
+github.com/pmamico/go-jmespath-plus v0.0.0-20200228063638-e0b6f132acba/go.mod h1:A57wu2YKZM9dwidFjak6swlRJPKbg+TfHsFm0py9/i8=
 github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 h1:y5HC9v93H5EPKqaS1UYVg1uYah5Xf51mBfIoWehClUQ=
 github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964/go.mod h1:Xd9hchkHSWYkEqJwUGisez3G1QY8Ryz0sdWrLPMGjLk=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

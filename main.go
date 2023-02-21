@@ -13,13 +13,13 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/danielgtaylor/openapi-cli-generator/shorthand"
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/pmamico/openapi-cli-generator/shorthand"
+	"github.com/getkin/kin-openapi/openapi3@0.3.0"
 	"github.com/spf13/cobra"
 	yaml "gopkg.in/yaml.v2"
 )
 
-//go:generate go-bindata ./templates/...
+//go:generate go-bindata ./templates/...a
 
 // OpenAPI Extensions
 const (

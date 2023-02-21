@@ -30,7 +30,7 @@ This project can be used to generate CLIs from OpenAPI 3 specs. The generated CL
 - Built-in cache to save data between runs
 - Fast structured logging via [zerolog](https://github.com/rs/zerolog)
 - Pretty output colored by [Chroma](https://github.com/alecthomas/chroma)
-- Response filtering & projection by [JMESPath](http://jmespath.org/) plus [enhancements](https://github.com/pmamico/go-jmespath-plus#enhancements)
+- Response filtering & projection by [JMESPath](http://jmespath.org/) plus [enhancements](https://github.com/danielgtaylor/go-jmespath-plus#enhancements)
 
 ## Getting Started
 

@@ -8,7 +8,7 @@ import (
 	"github.com/alecthomas/chroma"
 	"github.com/alecthomas/chroma/quick"
 	"github.com/alecthomas/chroma/styles"
-	jmespath "github.com/pmamico/go-jmespath-plus"
+	jmespath "github.com/danielgtaylor/go-jmespath-plus"
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v2"
 )

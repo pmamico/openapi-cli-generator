@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/chroma v0.0.0-20181013211843-01e18834b5dd
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 // indirect
-	github.com/pmamico/go-jmespath-plus v0.0.0-20200228063638-e0b6f132acba
+	github.com/danielgtaylor/go-jmespath-plus v0.0.0-20200228063638-e0b6f132acba
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
 	github.com/dlclark/regexp2 v1.1.6 // indirect
 	github.com/getkin/kin-openapi v0.0.0-20190303141616-e6aa6352832d

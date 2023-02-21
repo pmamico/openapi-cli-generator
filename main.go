@@ -14,7 +14,7 @@ import (
 	"text/template"
 
 	"github.com/pmamico/openapi-cli-generator/shorthand"
-	"github.com/getkin/kin-openapi/openapi3@0.3.0"
+	"github.com/getkin/kin-openapi/openapi3"
 	"github.com/spf13/cobra"
 	yaml "gopkg.in/yaml.v2"
 )
